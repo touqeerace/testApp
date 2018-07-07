@@ -1,0 +1,15 @@
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\bin\Debug\netstandard2.0\MSAppCenter.deps.json
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\bin\Debug\netstandard2.0\MSAppCenter.dll
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.csprojResolveAssemblyReference.cache
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.csproj.CoreCompileInputs.cache
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.App.xaml.g.cs
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.Views.AboutPage.xaml.g.cs
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.Views.ItemDetailPage.xaml.g.cs
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.Views.ItemsPage.xaml.g.cs
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.Views.MainPage.xaml.g.cs
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.Views.NewItemPage.xaml.g.cs
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.AssemblyInfoInputs.cache
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.AssemblyInfo.cs
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\bin\Debug\netstandard2.0\MSAppCenter.pdb
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.dll
+c:\users\touqeer\source\repos\MSAppCenter\MSAppCenter\MSAppCenter\obj\Debug\netstandard2.0\MSAppCenter.pdb
